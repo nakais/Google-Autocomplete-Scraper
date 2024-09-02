@@ -17,9 +17,9 @@ This script automates the process of collecting Google autocomplete suggestions 
 
 ## Setup
 1. Clone the repository.
-2. Install the required Python packages:
+2. Install the Required Libraries using the following commands:
    ```bash
-   pip install -r requirements.txt
+   pip install selenium openpyxl
     ```
 3. Update the excel_file_path variable with the path to your Excel file.
 4. Ensure ChromeDriver is installed and added to your PATH.
