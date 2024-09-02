@@ -33,6 +33,9 @@ This script automates the process of collecting Google autocomplete suggestions 
 
 ## Excel sheet
    https://docs.google.com/spreadsheets/d/102r0zxPioHWHpgHKtoaklntOSmPtd-FYB8ffFghUvxI/edit?usp=sharing
+   
+## Record of running project
+   https://www.loom.com/share/c2656aa180b247c0920633e98aca8c9b?sid=fe298277-65ac-4925-8a73-e5f52fd70b6d
 
 ##  Notes
 - The script retries up to 3 times if it fails to collect suggestions.
