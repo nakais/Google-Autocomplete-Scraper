@@ -31,6 +31,9 @@ This script automates the process of collecting Google autocomplete suggestions 
     ```
 2. The Excel sheet will be automatically updated with the collected data.
 
+## Excel sheet
+   https://docs.google.com/spreadsheets/d/102r0zxPioHWHpgHKtoaklntOSmPtd-FYB8ffFghUvxI/edit?usp=sharing
+
 ##  Notes
 - The script retries up to 3 times if it fails to collect suggestions.
 - Ensure your Excel file has sheets named after the days of the week. 
